@@ -58,6 +58,7 @@ img:hover {
   position: relative;
 }
 .menu__items {
+  z-index: 100;
   position: absolute;
   top: var(--size-btnContainer);
   right: 0;
@@ -72,8 +73,9 @@ img:hover {
 .menu__item {
   text-align: right;
   width: var(--size-menuItem);
-  padding: 5px;
+  padding: 5px 1rem;
   font-size: 1.5rem;
+  font-weight: bold;
   border: 0.05em solid var(--color-yellow);
   background-color: var(--color-blue);
 }
