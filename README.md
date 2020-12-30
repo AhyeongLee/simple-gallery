@@ -1,6 +1,7 @@
 # Simple Gallery
 
-Simple Responsive Website
+Simple Responsive Website</br>
+[Simple Gallery](http://simpel-gallery.s3-website.ap-northeast-2.amazonaws.com/)
 
 <details open="open">
   <summary>개요</summary>
