@@ -46,11 +46,7 @@ Simple Responsive Website
 - 모바일 가로 화면</br></br>
   <img src="./screen_shot/mobile-horizontal.png" width="300">
 
-  모바일은 화면이 작기 때문에 내용이 화면을 넘어가게 만들었고</br>
-  짤리는 부분은 수직으로 스크롤이 가능하다.</br>
-
-  <img src="./screen_shot/mobile-scroll.png" width="300"></br>
-
 ## Acknowledgements
 
 - Image Copyright : [nicepage](https://nicepage.com/)
+- Button : [Font Awesome](https://fontawesome.com/)
